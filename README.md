@@ -14,7 +14,21 @@
 
 <p align="center">I'm super interested in and enjoy working on 📱 web/app development, 🧑‍💻 startups, 📈 investing, 🤖 machine learning, and anything else that seems cool‼️</p>
 
+<p align="center">Some languages and frameworks I use are...</p>
+
+![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
+![Kotlin](https://img.shields.io/badge/-Kotlin-000000?style=flat&logo=kotlin)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
+![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=c%2B%2B)
+![React](https://img.shields.io/badge/-React-000000?style=flat&logo=React&logoColor=4285F4)
+![Next](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=Next&logoColor=339933)
+![Firebase](https://img.shields.io/badge/-Firebase-000000?style=flat&logo=firebase)
+![Heroku](https://img.shields.io/badge/-Heroku-000000?style=flat&logo=heroku)
+![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=HTML5)
+![CSS3](https://img.shields.io/badge/-CSS3-000000?style=flat&logo=CSS3)
+
 <p align="center">Currently, I'm working at multiple <a href=https://www.linkedin.com/in/nima-pourjafar-8719a21a6//>startups</a>  and working on becoming a better programmer through personal projects 🧠.</p>
+
 
 ![Nima's GitHub stats](https://github-readme-stats.vercel.app/api?username=nimapourjafar&count_private=true&theme=tokyonight)
 
