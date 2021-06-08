@@ -30,5 +30,17 @@
 <p align="center">Currently, I'm working at multiple <a href=https://www.linkedin.com/in/nima-pourjafar-8719a21a6//>startups</a>  and working on becoming a better programmer through personal projects 🧠.</p>
 
 
+### When I'm not staying up at 💤 3 AM 🌑 debugging I enjoy...
+- Hanging out with friends 🥷
+- Cooking, but not really 🧑‍🍳....
+- Exercising 
+    - Mountain Biking 🚴‍♂️
+    - Going to the gym 🏋️‍♀️
+- Managing a stock portfolio 💸
+- Learning more about life 💭
+    - Reading different books 📙
+    - <a href=https://nimapourjafar.medium.com/> Writing about what's on my mind </a> ✍️
+
 ![Nima's GitHub stats](https://github-readme-stats.vercel.app/api?username=nimapourjafar&count_private=true&theme=tokyonight)
 
+### Thanks for visiting my little corner of the internet, hmu if you want to talk 😃
