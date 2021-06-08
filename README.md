@@ -12,7 +12,9 @@
 
 <p align="center">📣 Hey there, I'm Nima! I live in  Toronto, Canada and am currently in 📚 high school!</p>
 
-<p align="center">I'm super interested in and enjoy working on 📱 web/app development, 🧑‍💻 startups, 📈 investing, 🤖 machine learning, and anything else that seems cool ‼️</p>
+<p align="center">I'm super interested in and enjoy working on 📱 web/app development, 🧑‍💻 startups, 📈 investing, 🤖 machine learning, and anything else that seems cool‼️</p>
+
+<p align="center">Currently, I'm working at multiple <a href=https://www.linkedin.com/in/nima-pourjafar-8719a21a6//>startups</a>  and working on becoming a better programmer through personal projects 🧠.</p>
 
 ![Nima's GitHub stats](https://github-readme-stats.vercel.app/api?username=nimapourjafar&count_private=true&theme=tokyonight)
 
