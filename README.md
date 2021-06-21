@@ -1,5 +1,5 @@
 
-<h1>Hey I'm Nima! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> </h1>
+<h1>Hey, I'm Nima! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> </h1>
 
 <p align="center">
 <a href=https://www.linkedin.com/in/nima-pourjafar-8719a21a6//"><img src="https://img.shields.io/badge/-NimaPourjafar-1A1B27?style=for-the-badge&amp;logo=Linkedin&amp;logoColor=white&amp;link=https://www.linkedin.com/in/nima-pourjafar-8719a21a6/" alt="Linkedin"></a>
