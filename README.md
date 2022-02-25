@@ -14,7 +14,7 @@
 
 <p align="center">I'm super interested in and enjoy working on 📱 web/app development, 🧑‍💻 startups, 📈 investing, 🤖 machine learning, and anything else that seems cool‼️</p>
 
-<p align="center">Some languages, tools, and frameworks I use professionaly are...</p>
+<p align="center">Some languages, tools, and frameworks I use professionally are...</p>
 
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
 ![Kotlin](https://img.shields.io/badge/-Kotlin-000000?style=flat&logo=kotlin)
