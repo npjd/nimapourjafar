@@ -15,7 +15,7 @@
 
 <p  align="center">I live in Toronto, Canada and am currently in high school</p>
 
-<p  align="center">I love programming and making projects from scratch. I specalize in full-stack development and smart contract programming</p>
+<p  align="center">I love programming and making projects from scratch. I specialize in full-stack development and smart contract programming</p>
 
 <p  align="center">I've helped scale software to thousands of users at high-profile startups and participated in many hackathons. </p>
 
