@@ -13,20 +13,11 @@
 
 </p>
 
-<p  align="center">I live in Toronto, Canada and am currently in high school</p>
+<p  align="center">Currently playing with markets and agents</p>
 
-<p  align="center">I love programming and making projects from scratch. I specialize in full-stack development and smart contract programming</p>
-
-<p  align="center">I've helped scale software to thousands of users at high-profile startups and participated in many hackathons. </p>
-
-<p  align="center">Now, I'm focusing on scaling my own projects, doing blockchain/dapp developement, and teaching myself math I find cool. </p>
-
-<p  align="center">In my spare time, I enjoy cooking, going to the gym, and reading Russian litearture.</p>
- 
+<p  align="center">Waterloo CS 28'</p>
   
 
 ![Nima's GitHub stats](https://github-readme-stats.vercel.app/api?username=nimapourjafar&count_private=true&theme=tokyonight)
 
   
-
-### Thanks for visiting my little corner of the internet, hmu if you want to talk 😃
