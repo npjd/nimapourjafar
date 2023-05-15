@@ -18,6 +18,6 @@
 <p  align="center">Waterloo CS 28'</p>
   
 
-![Nima's GitHub stats](https://github-readme-stats.vercel.app/api?username=nimapourjafar&count_private=true&theme=tokyonight)
+![Nima's GitHub stats](https://github-readme-stats.vercel.app/api?username=nimapourjafar&count_private=true)
 
   
